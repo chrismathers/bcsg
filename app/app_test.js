@@ -16,5 +16,7 @@ describe('TabController', function() {
             expect(tabCtrl).toBeDefined();
         }));
 
+        // Yikes! I need help learning how to create unit test
+
     });
 });
